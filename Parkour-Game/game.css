@@ -1,0 +1,39 @@
+.body_background 
+{
+background-color: darkred;
+}
+#myCanvas
+{
+    border-width:10px;
+    background:url("https://cdn.discordapp.com/attachments/819468296491499571/952094719045931048/unknown.png"); 
+    border-style:ridge;
+}
+
+h2
+{
+font-size: 50px;
+background-color: yellow;
+width: 350px;
+}
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
